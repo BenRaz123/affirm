@@ -6,7 +6,7 @@ Ben Raz, 2023
 % affirm -h
 ```
 ## Why?
-`affirm` is mainly a joke designed to replace `yes` --- a command that infinitely repeats it's input --- with a rust-based version.
+`affirm` is mainly a joke designed to replace `yes` — a command that infinitely repeats it's input — with a rust-based version.
 ## Installation
 Make sure you have rust installed and run 
 ```zsh
